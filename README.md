@@ -9,9 +9,9 @@
 **Data from January to early May of 2019** 
 
 
-[Summary Table for Rides, Fares, Drivers for each City Types]()
+[Summary Table for Rides, Fares, Drivers for each City Types](https://github.com/fmgribbon/PyBer_Analysis/blob/main/Analysis/PyberDataSummary.PNG)
 
-[Multiline Chart for Weekly Total Fares for each City Types]()
+[Multiline Chart for Weekly Total Fares for each City Types](https://github.com/fmgribbon/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png)
 
 ### Pyber Data Analysis for each City Types 
 - The Urban neighborhoods had:
@@ -20,7 +20,7 @@
 - The Rural neighborhoods had: 
      the least total rides and drivers 
       the highest average fare per ride and driver 
- -The Suburban neighborhoods’ total number of rides and drivers and the average fares per ride and driver were in between the Urban and Rural neighborhoods.  
+- The Suburban neighborhoods’ total number of rides and drivers and the average fares per ride and driver were in between the Urban and Rural neighborhoods.  
 
 ### Weekly Total Fares for each City Types
    -  The rural neighborhoods’ weekly total fares were the lowest amongst all city types.
@@ -29,18 +29,18 @@
    - Weekly total fares increased in the 3rd week of February and decreased in the 1st week of March.
    - The weekly total fares in the 1st week of January increased compared to the 4th week of April 2019. 
 
-   - ** The highest weekly total fares: ** 
+   - **The highest weekly total fares:** 
        - Urban neighborhoods – 2nd week of March
        - Suburban neighborhoods - 4th week of February
        - Rural neighborhoods - 1st week of April  
-   - ** The lowest weekly total fares: ** 
+   - **The lowest weekly total fares:** 
        - Urban neighborhoods - 1st week of January
        - Suburban neighborhoods - 1st week of January
        - Rural neighborhoods – 2nd second week of January  
-  - ** The weekly total fares range: ** 
-	- Urban neighborhoods: $1,600 - $2500
-    - Rural neighborhoods: $700 - $1400
-    - Rural neighborhoods: $50 - $500
+  - **The weekly total fares range:** 
+       - Urban neighborhoods: $1,600 - $2500
+       - Rural neighborhoods: $700 - $1400
+       - Rural neighborhoods: $50 - $500
             
 ## Summary
 
