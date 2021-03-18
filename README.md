@@ -15,11 +15,11 @@
 
 ### Pyber Data Analysis for each City Types 
 - The Urban neighborhoods had:
-     the highest number of rides and drivers 
-    the lowest average fare per ride and driver. 
+  - the highest number of rides and drivers 
+  - the lowest average fare per ride and driver. 
 - The Rural neighborhoods had: 
-     the least total rides and drivers 
-      the highest average fare per ride and driver 
+  - the least total rides and drivers 
+  - the highest average fare per ride and driver 
 - The Suburban neighborhoods’ total number of rides and drivers and the average fares per ride and driver were in between the Urban and Rural neighborhoods.  
 
 ### Weekly Total Fares for each City Types
